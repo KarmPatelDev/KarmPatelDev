@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://github.com/mrkarmpatel)
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://github.com/KarmPatelDev)
 
 <h1 align="center">Hi 👋, I'm Karm Patel</h1>
 <h3 align="center">A Passionate Computer Engineer from India</h3>
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkarmpatel&label=Profile%20views&color=0e75b6&style=flat" alt="mrkarmpatel" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mrkarmpatel" target="blank"><img src="https://img.shields.io/twitter/follow/mrkarmpatel?logo=twitter&style=for-the-badge" alt="mrkarmpatel" /></a> </p>
+<p align="left"> <a href="https://twitter.com/KarmPatelDev" target="blank"><img src="https://img.shields.io/twitter/follow/mrkarmpatel?logo=twitter&style=for-the-badge" alt="mrkarmpatel" /></a> </p>
 
 - 🌱 I’m currently learning **DSA and Web-Development**
 
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mrkarmpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrkarmpatel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mrkarmpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrkarmpatel" height="30" width="40" /></a>
-<a href="https://fb.com/mrkarmpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrkarmpatel" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_karmpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_karmpatel" height="30" width="40" /></a>
+<a href="https://twitter.com/KarmPatelDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KarmPatelDev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karmpateldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karmpateldev" height="30" width="40" /></a>
+<a href="https://fb.com/karmpateldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karmpateldev" height="30" width="40" /></a>
+<a href="https://instagram.com/karmpateldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karmpateldev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
